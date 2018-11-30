@@ -1,5 +1,5 @@
-// Package cascadia is an implementation of CSS selectors.
-package cascadia
+// package gosel is like css selectors, but for Go code.
+package dss
 
 import (
 	"errors"

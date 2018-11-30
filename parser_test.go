@@ -1,4 +1,4 @@
-package cascadia
+package dss
 
 import (
 	"testing"
